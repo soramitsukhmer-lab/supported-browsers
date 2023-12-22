@@ -1,7 +1,7 @@
 [browsersl.ist]: https://browsersl.ist/?results#q=%3E+1%25%0Alast+2+versions%0AFirefox+ESR%0Anot+dead%0A&region=KH
 [Chrome Enterprise]: https://chromeenterprise.google/browser/download/
-[Firefox Extended Support Release]: https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr
 [Microsoft Edge for Business]: https://www.microsoft.com/en-us/edge/business/download
+[Firefox Extended Support Release]: https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr
 
 # About
 A documents on supported browser based on "browserslist" query.
@@ -30,16 +30,6 @@ Chrome Enterprise combines the business capabilities of Chrome browser, ChromeOS
 
 > Click here to download [Chrome Enterprise].
 
-<!-- Firefox Extended Support Release -->
-<br/>
-<br/>
-<img width="64px" src="https://github.com/soramitsukhmer-lab/supported-browsers/assets/4363857/c4391915-f022-4ba4-99bf-01a7d32263e4" />
-
-### Firefox Extended Support Release
-Firefox Extended Support Release (ESR) is an official version of Firefox developed for large organizations like universities and businesses that need to set up and maintain Firefox on a large scale. Firefox ESR does not come with the latest features but it has the latest security and stability fixes.
-
-> Click here to download [Firefox Extended Support Release].
-
 <!-- Microsoft Edge for Business -->
 <br/>
 <br/>
@@ -49,3 +39,13 @@ Firefox Extended Support Release (ESR) is an official version of Firefox develop
 Microsoft Edge for Business is a new, dedicated Microsoft Edge experience built for work that enables admins in organizations to give their users a productive and secure work browser across managed and unmanaged devices. It has the same rich set of enterprise controls, security, and productivity features that you're already familiar with in Microsoft Edge, but it's built to help meet the evolving needs of businesses.
 
 > Click here to download [Microsoft Edge for Business].
+
+<!-- Firefox Extended Support Release -->
+<br/>
+<br/>
+<img width="64px" src="https://github.com/soramitsukhmer-lab/supported-browsers/assets/4363857/c4391915-f022-4ba4-99bf-01a7d32263e4" />
+
+### Firefox Extended Support Release
+Firefox Extended Support Release (ESR) is an official version of Firefox developed for large organizations like universities and businesses that need to set up and maintain Firefox on a large scale. Firefox ESR does not come with the latest features but it has the latest security and stability fixes.
+
+> Click here to download [Firefox Extended Support Release].
