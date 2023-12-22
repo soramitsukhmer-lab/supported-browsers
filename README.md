@@ -1,3 +1,8 @@
+[browsersl.ist]: https://browsersl.ist/?results#q=%3E+1%25%0Alast+2+versions%0AFirefox+ESR%0Anot+dead%0A&region=KH
+[Chrome Enterprise]: https://chromeenterprise.google/browser/download/
+[Firefox Extended Support Release]: https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr
+[Microsoft Edge for Business]: https://www.microsoft.com/en-us/edge/business/download
+
 # About
 A documents on supported browser based on "browserslist" query.
 
@@ -10,7 +15,7 @@ Firefox ESR
 not dead
 ```
 
-> Click here to check compatible browsers listed in the above query, [browsersl.ist](https://browsersl.ist/#q=%3E+1%25%0Alast+2+versions%0AFirefox+ESR%0Anot+dead%0A&region=KH)
+> Click here to check compatible browsers listed in the above query, [browsersl.ist]
 
 <br/>
 
@@ -23,7 +28,7 @@ not dead
 ### Chrome Enterprise
 Chrome Enterprise combines the business capabilities of Chrome browser, ChromeOS, and ChromeOS devices to power your cloud workforce.
 
-> Click here to download [Chrome Enterprise](https://chromeenterprise.google/browser/download/).
+> Click here to download [Chrome Enterprise].
 
 <!-- Firefox Extended Support Release -->
 <br/>
@@ -33,7 +38,7 @@ Chrome Enterprise combines the business capabilities of Chrome browser, ChromeOS
 ### Firefox Extended Support Release
 Firefox Extended Support Release (ESR) is an official version of Firefox developed for large organizations like universities and businesses that need to set up and maintain Firefox on a large scale. Firefox ESR does not come with the latest features but it has the latest security and stability fixes.
 
-> Click here to download [Firefox Extended Support Release](https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr).
+> Click here to download [Firefox Extended Support Release].
 
 <!-- Microsoft Edge for Business -->
 <br/>
@@ -43,4 +48,4 @@ Firefox Extended Support Release (ESR) is an official version of Firefox develop
 ### Microsoft Edge for Business
 Microsoft Edge for Business is a new, dedicated Microsoft Edge experience built for work that enables admins in organizations to give their users a productive and secure work browser across managed and unmanaged devices. It has the same rich set of enterprise controls, security, and productivity features that you're already familiar with in Microsoft Edge, but it's built to help meet the evolving needs of businesses.
 
-> Click here to download [Microsoft Edge for Business](https://www.microsoft.com/en-us/edge/business/download).
+> Click here to download [Microsoft Edge for Business].
