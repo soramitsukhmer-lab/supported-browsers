@@ -6,7 +6,7 @@
 # About
 A documents on supported browser based on "browserslist" query.
 
-## Browserslist
+### Browserslist
 The default Browserslist config
 ```
 > 1%
