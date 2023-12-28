@@ -1,4 +1,4 @@
-[browsersl.ist]: https://browsersl.ist/?results#q=%3E+1%25%0Alast+2+versions%0AFirefox+ESR%0Anot+dead%0A&region=KH
+[browsersl.ist]: https://browsersl.ist/#q=%3E+1%25%0Alast+2+major+versions%0AFirefox+ESR%0Anot+dead%0A
 [Chrome Enterprise]: https://chromeenterprise.google/browser/download/
 [Microsoft Edge for Business]: https://www.microsoft.com/en-us/edge/business/download
 [Firefox Extended Support Release]: https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr
@@ -10,7 +10,7 @@ A documents on supported browser based on "browserslist" query.
 The default Browserslist config
 ```
 > 1%
-last 2 versions
+last 2 major versions
 Firefox ESR
 not dead
 ```
